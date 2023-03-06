@@ -1,0 +1,81 @@
+<!-- 
+	//////////////////////////////////////////////////////
+
+	FREE HTML5 TEMPLATE 
+	DESIGNED & DEVELOPED by FreeHTML5.co
+		
+	Website: 		http://freehtml5.co/
+	Email: 			info@freehtml5.co
+	Twitter: 		http://twitter.com/fh5co
+	Facebook: 		https://www.facebook.com/fh5co
+
+	//////////////////////////////////////////////////////
+	 -->
+
+  	<!-- Facebook and Twitter integration -->
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<!-- <link href='https://fonts.googleapis.com/css?family=Work+Sans:400,300,600,400italic,700' rel='stylesheet' type='text/css'> -->
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Divison which is cut 
+
+<div id="fh5co-core-feature">
+		<div class="container">
+			<div class="row">
+				<div class="features">
+					<div class="col-half animate-box" data-animate-effect="fadeInLeft">
+						<div class="table-c">
+							<div class="desc">
+								<span>Try Our Awesome Stuff</span>
+								<h3>Anyone can make there own Website</h3>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics.</p>
+								<p><a href="#" class="btn btn-lg btn-primary">Learn More</a></p>
+							</div>
+						</div>
+					</div>
+					<div class="col-half-image-holder animate-box" data-animate-effect="fadeInRight">
+						<img class="img-responsive" src="images/samsungs6.png" alt="samsung">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
